@@ -45,7 +45,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Konferenzlink hinzufügen",
-        "confirmAddLink": "Möchten Sie einen Jitsi-Link zu diesem Termin hinzufügen?",
+        "confirmAddLink": "Möchten Sie einen MobileX-Link zu diesem Termin hinzufügen?",
         "error": {
             "appConfiguration": "Kalenderintegration ist nicht richtig konfiguriert.",
             "generic": "Ein Fehler ist aufgetreten. Prüfen Sie Ihre Kalendereinstellungen oder versuchen Sie, den Kalender zu aktualisieren.",
@@ -359,7 +359,7 @@
         "answer": "Antworten",
         "audioCallTitle": "Eingehender Anruf",
         "decline": "OK",
-        "productLabel": "von Jitsi Meet",
+        "productLabel": "von MobileX Meet",
         "videoCallTitle": "Eingehender Videoanruf"
     },
     "info": {
@@ -523,7 +523,7 @@
         "newDeviceAudioTitle": "Neues Audiogerät erkannt",
         "newDeviceAction": "Verwenden",
         "OldElectronAPPTitle": "Sicherheitslücke!",
-        "oldElectronClientDescription1": "Sie scheinen eine alte Version des Jitsi-Meet-Clients zu nutzen. Diese hat bekannte Schwachstellen. Bitte aktualisieren Sie auf unsere ",
+        "oldElectronClientDescription1": "Sie scheinen eine alte Version des MobileX-Meet-Clients zu nutzen. Diese hat bekannte Schwachstellen. Bitte aktualisieren Sie auf unsere ",
         "oldElectronClientDescription2": "aktuelle Version",
         "oldElectronClientDescription3": "!"
     },
@@ -541,23 +541,23 @@
         "configuringDevices": "Geräte werden eingerichtet …",
         "connectedWithAudioQ": "Sie sind mit Audio verbunden?",
         "connection": {
-           "good": "Ihre Internetverbindung sieht gut aus!",
-           "nonOptimal": "Ihre Internetverbindung ist nicht optimal.",
-           "poor": "Sie haben eine schlechte Internetverbindung."
+            "good": "Ihre Internetverbindung sieht gut aus!",
+            "nonOptimal": "Ihre Internetverbindung ist nicht optimal.",
+            "poor": "Sie haben eine schlechte Internetverbindung."
         },
         "connectionDetails": {
-          "audioClipping": "Ihr Ton wird wahrscheinlich abgehackt sein.",
-          "audioHighQuality": "Ihr Ton sollte exzellent klingen.",
-          "audioLowNoVideo": "Ihr Ton wird wahrscheinlich schlecht klingen und es wird kein Video geben.",
-          "goodQuality": "Großartig! Ihre Bild- und Tonqualität sollte super sein.",
-          "noMediaConnectivity": "Es konnte für diesen Test keine Medienverbindung hergestellt werden. Das wird gewöhnlich durch eine Firewall oder ein NAT ausgelöst.",
-          "noVideo": "Ihr Bild wird wahrscheinlich eine schlechte Qualität haben.",
-          "undetectable": "Wenn Sie mit Ihrem Browser weiterhin Probleme in Konferenzen haben, sollten Sie die Verbindung und Funktion Ihrer Lautsprecher, Ihres Mikrofons und Ihrer Kamera überprüfen. Stellen Sie außerdem sicher, dass Ihr Browser die erforderlichen Rechte hat, auf das Mikrofon und die Kamera zuzugreifen, und dass Sie die neuste Browserversion installiert haben. Sollten Sie immer noch Probleme haben, kontaktieren Sie bitte den Support der Webanwendung.",
-          "veryPoorConnection": "Ihre Konferenzqualität wird wahrscheinlich sehr schlecht sein.",
-          "videoFreezing": "Ihr Bild wird wahrscheinlich einfrieren, schwarz werden und eine geringe Auflösung haben.",
-          "videoHighQuality": "Ihr Bild sollte sehr gut aussehen.",
-          "videoLowQuality": "Ihr Bild wird wahrscheinlich eine geringe Auflösung und Bildrate haben.",
-          "videoTearing": "Ihr Bild wird wahrscheinlich eine geringe Auflösung haben oder Artefakte aufweisen."
+            "audioClipping": "Ihr Ton wird wahrscheinlich abgehackt sein.",
+            "audioHighQuality": "Ihr Ton sollte exzellent klingen.",
+            "audioLowNoVideo": "Ihr Ton wird wahrscheinlich schlecht klingen und es wird kein Video geben.",
+            "goodQuality": "Großartig! Ihre Bild- und Tonqualität sollte super sein.",
+            "noMediaConnectivity": "Es konnte für diesen Test keine Medienverbindung hergestellt werden. Das wird gewöhnlich durch eine Firewall oder ein NAT ausgelöst.",
+            "noVideo": "Ihr Bild wird wahrscheinlich eine schlechte Qualität haben.",
+            "undetectable": "Wenn Sie mit Ihrem Browser weiterhin Probleme in Konferenzen haben, sollten Sie die Verbindung und Funktion Ihrer Lautsprecher, Ihres Mikrofons und Ihrer Kamera überprüfen. Stellen Sie außerdem sicher, dass Ihr Browser die erforderlichen Rechte hat, auf das Mikrofon und die Kamera zuzugreifen, und dass Sie die neuste Browserversion installiert haben. Sollten Sie immer noch Probleme haben, kontaktieren Sie bitte den Support der Webanwendung.",
+            "veryPoorConnection": "Ihre Konferenzqualität wird wahrscheinlich sehr schlecht sein.",
+            "videoFreezing": "Ihr Bild wird wahrscheinlich einfrieren, schwarz werden und eine geringe Auflösung haben.",
+            "videoHighQuality": "Ihr Bild sollte sehr gut aussehen.",
+            "videoLowQuality": "Ihr Bild wird wahrscheinlich eine geringe Auflösung und Bildrate haben.",
+            "videoTearing": "Ihr Bild wird wahrscheinlich eine geringe Auflösung haben oder Artefakte aufweisen."
         },
         "copyAndShare": "Konferenzlink kopieren & teilen",
         "dialInMeeting": "Telefoneinwahl",
@@ -915,11 +915,11 @@
         "getHelp": "Hilfe",
         "go": "Los",
         "goSmall": "Los",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "MobileX Meet",
         "headerSubtitle": "Sichere und hochqualitative Meetings",
         "info": "Einwahlinformationen",
         "join": "ERSTELLEN / BEITRETEN",
-        "jitsiOnMobile": "Jitsi on mobile – Download unsere Apps und starte ein Meeting von überall",
+        "MobileXOnMobile": "MobileX on mobile – Download unsere Apps und starte ein Meeting von überall",
         "moderatedMessage": "Oder <a href=\"{{url}}\" rel=\"noopener noreferrer\" target=\"_blank\">reservieren Sie sich eine Konferenz-URL</a>, die nur Sie moderieren.",
         "privacy": "Datenschutz",
         "recentList": "Verlauf",

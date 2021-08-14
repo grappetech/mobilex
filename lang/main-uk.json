@@ -29,7 +29,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Додати посилання на конференцію",
-        "confirmAddLink": "Додати посилання на Jitsi до цієї події?",
+        "confirmAddLink": "Додати посилання на MobileX до цієї події?",
         "error": {
             "appConfiguration": "Неправильно налаштовано інтеграцію календаря.",
             "generic": "Помилка: будь ласка, перевірте налаштування календаря або спробуйте перевантажити його.",
@@ -297,7 +297,7 @@
     "documentSharing": {
         "title": "Спільний документ"
     },
-        "e2ee": {
+    "e2ee": {
         "labelToolTip": "Звук та відео у цьому виклику наскрізно шифруються"
     },
     "feedback": {
@@ -313,7 +313,7 @@
         "answer": "Відповідь",
         "audioCallTitle": "Вхідний виклик",
         "decline": "Відхилити",
-        "productLabel": "з Jitsi Meet",
+        "productLabel": "з MobileX Meet",
         "videoCallTitle": "Вхідний відеовиклик"
     },
     "info": {

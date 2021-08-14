@@ -1,17 +1,17 @@
 {
     "addPeople": {
         "add": "Davet et",
-    	"addContacts": "Kişilerinizi davet edin",
+        "addContacts": "Kişilerinizi davet edin",
         "copyInvite": "Toplantı davetini kopyala",
         "copyLink": "Toplantı bağlantısını kopyala",
-	    "copyStream": "Canlı akış bağlantısını kopyala",
+        "copyStream": "Canlı akış bağlantısını kopyala",
         "countryNotSupported": "Ülke henüz desteklenmiyor",
         "countryReminder": "Dış bir ülkeyi mi arıyorsunuz? Lütfen ülke koduyla başlayın!",
-    	"defaultEmail": "Varsayılan E-postanız",
+        "defaultEmail": "Varsayılan E-postanız",
         "disabled": "Kişi davet edemezsiniz.",
         "failedToAdd": "Kişi eklenemedi",
         "footerText": "Dış arama devre dışı.",
-	    "googleEmail": "Google Email",
+        "googleEmail": "Google Email",
         "inviteMoreHeader": "Toplantıdaki tek kişisiniz",
         "inviteMoreMailSubject": "{{appName}} toplantısına katıl",
         "inviteMorePrompt": "Daha fazla kişi davet et",
@@ -69,10 +69,9 @@
             "popover": "Bir takma ad seçin",
             "title": "Sohbette kullanmak için bir takma ad girin"
         },
-	"privateNotice": "{{recipient}} için özel mesaj",
+        "privateNotice": "{{recipient}} için özel mesaj",
         "title": "Sohbet",
         "you": "sen"
-
     },
     "connectingOverlay": {
         "joiningRoom": "Toplantıya bağlanılıyor..."
@@ -159,8 +158,7 @@
         "accessibilityLabel": {
             "liveStreaming": "Canlı akış"
         },
-
-	"add": "Ekle",
+        "add": "Ekle",
         "allow": "İzin ver",
         "alreadySharedVideoMsg": "Başka bir katılımcı zaten bir video paylaşıyor. Bu konferans aynı anda yalnızca bir paylaşılan videoya izin verir.",
         "alreadySharedVideoTitle": "Aynı anda yalnızca bir paylaşılan videoya izin verilir.",
@@ -225,17 +223,17 @@
         "micNotSendingDataTitle": "Mikrofona erişilemiyor.",
         "micPermissionDeniedError": "Mikrofon kullanımına izin vermediniz. Yine de toplantıya katılabilirsiniz, ancak diğerleri sizi duyamaz. Bunu düzeltmek için mikrofon butonunu kullanın.",
         "micUnknownError": "Bilinmeyen bir nedenden dolayı mikrofon kullanılamıyor.",
-        "muteEveryoneElseDialog" : "Susturulduğunda, mikrofonlarını sessizden çıkaramayacaksınız ancak onlar diledikleri zaman kendilerini sessizden çıkarabilirler.",
-        "muteEveryoneElseTitle" : "{{whom}} hariç herkesi sustur?",
-        "muteEveryoneDialog" : "Herkesi susturmak istediğinizden emin misiniz? Onları sessizden çıkaramayacaksınız ancak onlar kendilerini her zaman sessizden çıkarabilirler.",
-        "muteEveryoneTitle" : "Herkesi sustur?",
-        "muteEveryoneElsesVideoDialog" : "Kameraları devre dışı bırakıldığında geri açamayacaksınız, ancak onlar kameralarını her zaman açabilirler.",
-        "muteEveryoneElsesVideoTitle" : "{{whom}} hariç herkesin kamerasını devre dışı bırak?",
-        "muteEveryonesVideoDialog" : "Herkesin kamerasını devre dışı bırakmak istediğinizden emin misiniz? Kameralar devre dışı bırakıldığında geri açamayacaksınız, ancak onlar kameralarını her zaman açabilirler.",
-        "muteEveryonesVideoDialogOk" : "Kameraları Kapat",
-        "muteEveryonesVideoTitle" : "Herkesin kamerasını devre dışı bırak?",
-        "muteEveryoneSelf" : "Kendiniz",
-        "muteEveryoneStartMuted" : "Şu andan itibaren herkes sessizde başlayacak",
+        "muteEveryoneElseDialog": "Susturulduğunda, mikrofonlarını sessizden çıkaramayacaksınız ancak onlar diledikleri zaman kendilerini sessizden çıkarabilirler.",
+        "muteEveryoneElseTitle": "{{whom}} hariç herkesi sustur?",
+        "muteEveryoneDialog": "Herkesi susturmak istediğinizden emin misiniz? Onları sessizden çıkaramayacaksınız ancak onlar kendilerini her zaman sessizden çıkarabilirler.",
+        "muteEveryoneTitle": "Herkesi sustur?",
+        "muteEveryoneElsesVideoDialog": "Kameraları devre dışı bırakıldığında geri açamayacaksınız, ancak onlar kameralarını her zaman açabilirler.",
+        "muteEveryoneElsesVideoTitle": "{{whom}} hariç herkesin kamerasını devre dışı bırak?",
+        "muteEveryonesVideoDialog": "Herkesin kamerasını devre dışı bırakmak istediğinizden emin misiniz? Kameralar devre dışı bırakıldığında geri açamayacaksınız, ancak onlar kameralarını her zaman açabilirler.",
+        "muteEveryonesVideoDialogOk": "Kameraları Kapat",
+        "muteEveryonesVideoTitle": "Herkesin kamerasını devre dışı bırak?",
+        "muteEveryoneSelf": "Kendiniz",
+        "muteEveryoneStartMuted": "Şu andan itibaren herkes sessizde başlayacak",
         "muteParticipantBody": "Sesi açamazsınız, ancak istedikleri zaman kendileri seslerini açabilirler.",
         "muteParticipantButton": "Sustur",
         "muteParticipantDialog": "Bu katılımcının sesini kapatmak istediğinizden emin misiniz? Sesini açamazsınız, ancak istedikleri zaman kendileri seslerini açabilirler.",
@@ -276,7 +274,7 @@
         "sendPrivateMessageCancel": "Gruba gönder",
         "sendPrivateMessageOk": "Özel olarak gönder",
         "sendPrivateMessageTitle": "Özel olarak gönderilsin mi?",
-	"serviceUnavailable": "Hizmet kullanılamıyor",
+        "serviceUnavailable": "Hizmet kullanılamıyor",
         "sessTerminated": "Arama sonlandırıldı",
         "Share": "Paylaş",
         "shareVideoLinkError": "Lütfen doğru bir Youtube bağlantısı sağlayın.",
@@ -309,16 +307,12 @@
     "dialOut": {
         "statusMessage": "şimdi {{status}}"
     },
-
     "documentSharing": {
         "title": "Paylaşılan Döküman"
     },
-
-
     "e2ee": {
         "labelToolTip": "Bu görüşmedeki ses ve video iletişimi uçtan uca şifrelenmiştir."
     },
-
     "feedback": {
         "average": "Orta",
         "bad": "Kötü",
@@ -332,7 +326,7 @@
         "answer": "Cevapla",
         "audioCallTitle": "Gelen sesli arama",
         "decline": "Reddet",
-        "productLabel": "Jitsi Meet'den",
+        "productLabel": "MobileX Meet'den",
         "videoCallTitle": "Gelen görüntülü arama"
     },
     "info": {
@@ -395,7 +389,6 @@
         "toggleShortcuts": "Klavye kısayollarını göster veya gizle",
         "videoMute": "Kamerayı aç veya kapat",
         "videoQuality": "Çağrı kalitesini yönetin"
-
     },
     "liveStreaming": {
         "busy": "Akış kaynaklarını serbest bırakmaya çalışıyoruz. Lütfen birkaç dakika içinde tekrar deneyin.",
@@ -428,7 +421,6 @@
         "unavailableTitle": "Canlı Akış kullanılamıyor",
         "youtubeTerms": "YouTube hizmet şartları",
         "googlePrivacyPolicy": "Google Gizlilik Politikası"
-
     },
     "localRecording": {
         "clientState": {
@@ -493,15 +485,13 @@
         "newDeviceAudioTitle": "Yeni ses aygıtı algılandı",
         "newDeviceAction": "Kullan",
         "OldElectronAPPTitle": "Güvenlik açığı!",
-        "oldElectronClientDescription1": "Güvenlik açıkları bilinen Jitsi Meet istemcisinin eski bir sürümünü kullanıyor görünüyorsunuz. Lütfen güncellediğinizden emin olun.",
+        "oldElectronClientDescription1": "Güvenlik açıkları bilinen MobileX Meet istemcisinin eski bir sürümünü kullanıyor görünüyorsunuz. Lütfen güncellediğinizden emin olun.",
         "oldElectronClientDescription2": "son yapı",
         "oldElectronClientDescription3": " şimdi!"
-
     },
     "passwordSetRemotely": "başka katılımcı tarafından ayarlandı",
     "passwordDigitsOnly": "{{number}} rakama kadar",
     "poweredby": "",
-
     "prejoin": {
         "audioAndVideoError": "Ses ve video hatası:",
         "audioOnlyError": "Ses Hatası:",
@@ -536,7 +526,6 @@
         "videoTrackError": "Video izleme oluşturulamadı.",
         "viewAllNumbers": "tüm numaraları görüntüle"
     },
-
     "presenceStatus": {
         "busy": "Meşgul",
         "calling": "Arıyor...",
@@ -588,13 +577,11 @@
     "sectionList": {
         "pullToRefresh": "Yenilemek için çekin"
     },
-
     "security": {
         "about": "Toplantınıza bir parola ekleyebilirsiniz. Katılımcıların toplantıya katılmasına izin verilmeden önce parolayı girmeleri gerekecektir.",
         "insecureRoomNameWarning": "Toplantı odası güvenli değil. Konferansınıza istenmeyen katılımcılar katılabilir.",
         "securityOptions": "Güvenlik Seçenekleri"
     },
-
     "settings": {
         "calendar": {
             "about": "{{appName}} takvim entegrasyonu, yaklaşan etkinlikleri okuyabilmesi için takviminize güvenli bir şekilde erişmek için kullanılır.",
@@ -713,7 +700,7 @@
         "closeChat": "Mesajlaşmayı kapat",
         "documentClose": "Paylaşılan dokümanı kapat",
         "documentOpen": "Paylaşılan dokümanı aç",
-	    "download": "Uygulamalarımızı indirin",
+        "download": "Uygulamalarımızı indirin",
         "e2ee": "Uçtan uca şifreleme",
         "enterFullScreen": "Tam ekran görüntüle",
         "enterTileView": "Döşeme görünümüne geç",
@@ -721,7 +708,7 @@
         "exitTileView": "Döşeme görünümünden çık",
         "feedback": "Geri bildirim bırakın",
         "hangup": "Ayrıl",
-    	"help": "Yardım",
+        "help": "Yardım",
         "invite": "Kişi davet et",
         "lobbyButtonDisable": "Lobi modunu devre dışı bırak",
         "lobbyButtonEnable": "Lobi modunu devre aktifleştir",
@@ -839,9 +826,8 @@
         "connectCalendarButton": "Takviminizi bağlayın",
         "connectCalendarText": "",
         "enterRoomTitle": "Yeni bir toplantı başlat",
-         "getHelp": "Yardım alın",
+        "getHelp": "Yardım alın",
         "roomNameAllowedChars": "Toplantı adı şu karakterlerden hiçbirini içermemelidir: ?, &, :, ', \", %, #.",
-
         "go": "GİT",
         "join": "KATIL",
         "info": "Bilgi",
@@ -855,25 +841,20 @@
         "sendFeedback": "Geri bildirim gönder",
         "terms": "Kurallar",
         "title": "Güvenli, tüm özelliklere erişimli ve tamamen ücretsiz görüntülü arama"
-
     },
-
     "lonelyMeetingExperience": {
         "button": "Birilerini davet et",
         "youAreAlone": "Toplantıdaki tek kişisiniz"
     },
-
     "helpView": {
         "header": "Yardım Merkezi"
     },
-
     "defaultNickname": "örnek Jane Pink",
     "chromeExtensionBanner": {
         "dontShowAgain": "Bunu bir daha gösterme",
         "buttonText": "Chrome Eklentisi'ni indirin",
         "installExtensionText": "Google Takvim ve Office 365 entegrasyonu için uzantıyı yükleyin"
     },
-
     "lobby": {
         "allow": "İzin ver",
         "backToKnockModeButton": "Parola yok, bunun yerine katılmayı isteyin",
@@ -901,5 +882,4 @@
         "reject": "Reddet",
         "toggleLabel": "Lobiyi etkinleştir"
     }
-
 }

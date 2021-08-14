@@ -45,7 +45,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Ajouter un lien de conférence",
-        "confirmAddLink": "Voulez-vous ajouter un lien Jitsi à cet événement ?",
+        "confirmAddLink": "Voulez-vous ajouter un lien MobileX à cet événement ?",
         "error": {
             "appConfiguration": "L'intégration du calendrier n'est pas correctement configurée.",
             "generic": "Une erreur s'est produite. Veuillez vérifier les paramètres de votre calendrier ou tenter de l'actualiser.",
@@ -360,7 +360,7 @@
         "answer": "Répondre",
         "audioCallTitle": "Appel entrant",
         "decline": "Rejeter",
-        "productLabel": "via Jitsi Meet",
+        "productLabel": "via MobileX Meet",
         "videoCallTitle": "Appel vidéo entrant"
     },
     "info": {
@@ -526,7 +526,7 @@
         "newDeviceAudioTitle": "Nouveau périphérique audio détecté",
         "newDeviceAction": "Utiliser",
         "OldElectronAPPTitle": "Vulnérabilité de sécurité !",
-        "oldElectronClientDescription1": "Vous semblez utiliser une ancienne version du client Jitsi Meet qui présente des vulnérabilités de sécurité connues. Veuillez vous assurer de mettre à jour vers notre ",
+        "oldElectronClientDescription1": "Vous semblez utiliser une ancienne version du client MobileX Meet qui présente des vulnérabilités de sécurité connues. Veuillez vous assurer de mettre à jour vers notre ",
         "oldElectronClientDescription2": "dernière build",
         "oldElectronClientDescription3": " rapidement !"
     },
@@ -544,23 +544,23 @@
         "configuringDevices": "Configuration des appareils ...",
         "connectedWithAudioQ": "Êtes-vous connecté avec le microphone ?",
         "connection": {
-           "good": "Votre connexion Internet est bonne !",
-           "nonOptimal": "Votre connexion n'est pas optimale",
-           "poor": "Vous avez une mauvaise connexion"
+            "good": "Votre connexion Internet est bonne !",
+            "nonOptimal": "Votre connexion n'est pas optimale",
+            "poor": "Vous avez une mauvaise connexion"
         },
         "connectionDetails": {
-          "audioClipping": "Attendez vous à ce que votre audio soit coupé.",
-          "audioHighQuality": "Votre audio sera de bonne qualité.",
-          "audioLowNoVideo": "Attendez vous à une faible qualité audio et aucune vidéo",
-          "goodQuality": "Impressionnant ! La qualité de vos médias sera excellente",
-          "noMediaConnectivity": "Nous n'avons pas pu trouver un moyen d'établir une connectivité multimédia pour ce test. Cela est généralement causé par un pare-feu ou un NAT.",
-          "noVideo": "Attendez vous à ce que votre qualité vidéo soit très mauvaise.",
-          "undetectable": "Si vous ne parvenez toujours pas à passer des appels dans le navigateur, nous vous recommandons de vous assurer que vos haut-parleurs, microphone et caméra sont correctement configurés, que vous avez accordé à votre navigateur les droits d'utiliser votre microphone et votre caméra et que la version de votre navigateur est à jour. Si vous rencontrez toujours des difficultés pour appeler, vous devez contacter le développeur de l'application Web.",
-          "veryPoorConnection": "Attendez vous à ce que la qualité de votre appel soit très mauvaise",
-          "videoFreezing": "Attendez vous à ce que votre vidéo saute, soit noire, et pixelisée.",
-          "videoHighQuality": "Votre vidéo sera de bonne qualité",
-          "videoLowQuality": "Votre vidéo sera de basse qualité en terme d'images par seconde et de résolution.",
-          "videoTearing": "Attendez vous à ce que votre vidéo soit pixélisée ou contienne des artefacts visuels."
+            "audioClipping": "Attendez vous à ce que votre audio soit coupé.",
+            "audioHighQuality": "Votre audio sera de bonne qualité.",
+            "audioLowNoVideo": "Attendez vous à une faible qualité audio et aucune vidéo",
+            "goodQuality": "Impressionnant ! La qualité de vos médias sera excellente",
+            "noMediaConnectivity": "Nous n'avons pas pu trouver un moyen d'établir une connectivité multimédia pour ce test. Cela est généralement causé par un pare-feu ou un NAT.",
+            "noVideo": "Attendez vous à ce que votre qualité vidéo soit très mauvaise.",
+            "undetectable": "Si vous ne parvenez toujours pas à passer des appels dans le navigateur, nous vous recommandons de vous assurer que vos haut-parleurs, microphone et caméra sont correctement configurés, que vous avez accordé à votre navigateur les droits d'utiliser votre microphone et votre caméra et que la version de votre navigateur est à jour. Si vous rencontrez toujours des difficultés pour appeler, vous devez contacter le développeur de l'application Web.",
+            "veryPoorConnection": "Attendez vous à ce que la qualité de votre appel soit très mauvaise",
+            "videoFreezing": "Attendez vous à ce que votre vidéo saute, soit noire, et pixelisée.",
+            "videoHighQuality": "Votre vidéo sera de bonne qualité",
+            "videoLowQuality": "Votre vidéo sera de basse qualité en terme d'images par seconde et de résolution.",
+            "videoTearing": "Attendez vous à ce que votre vidéo soit pixélisée ou contienne des artefacts visuels."
         },
         "copyAndShare": "Copier & partager le lien",
         "dialInMeeting": "Participez à la réunion",
@@ -919,11 +919,11 @@
         "getHelp": "Obtenir de l'aide",
         "go": "Créer",
         "goSmall": "Créer",
-        "headerTitle": "Jitsi Meet",
+        "headerTitle": "MobileX Meet",
         "headerSubtitle": "Conférences sécurisées et de haute qualité",
         "info": "Infos",
         "join": "CRÉER / REJOINDRE",
-        "jitsiOnMobile": "Jitsi sur mobile – télécharger notre application et démarrez des conférences de n'import où",
+        "MobileXOnMobile": "MobileX sur mobile – télécharger notre application et démarrez des conférences de n'import où",
         "moderatedMessage": "Ou <a href=\"{{url}}\" rel=\"noopener noreferrer\" target=\"_blank\">réserver une URL de réunion</a> à l'avance et où vous êtes le seul modérateur.",
         "privacy": "Confidentialité",
         "recentList": "Récent",

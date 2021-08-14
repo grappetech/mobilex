@@ -7,7 +7,7 @@
         "copyStream": "Kopiuj link transmisji na żywo",
         "countryNotSupported": "Nie obsługujemy jeszcze tej lokalizacji.",
         "countryReminder": "Dzwonisz spoza USA? Upewnij się, że zaczynasz od kodu kraju!",
-        "defaultEmail": "Domyślna poczta",        
+        "defaultEmail": "Domyślna poczta",
         "disabled": "Nie możesz zapraszać ludzi.",
         "failedToAdd": "Błąd dodawania uczestników",
         "footerText": "Wybieranie numeru jest wyłączone.",
@@ -44,7 +44,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Dodaj odnośnik do spotkania",
-        "confirmAddLink": "Czy chcesz dodać odnośnik Jitsi do tego wydarzenia?",
+        "confirmAddLink": "Czy chcesz dodać odnośnik MobileX do tego wydarzenia?",
         "error": {
             "appConfiguration": "Integracja z kalendarzem nie jest skonfigurowana poprawnie.",
             "generic": "Wystąpił problem. Sprawdź ustawienia kalendarza lub spróbuj odświeżyć kalendarz.",
@@ -74,12 +74,12 @@
         "title": "Rozmowa",
         "you": "Ty"
     },
-	"chromeExtensionBanner": {
+    "chromeExtensionBanner": {
         "installExtensionText": "Zainstaluj rozszerzenie integrujące Kalendarz Google i Office 365",
         "buttonText": "Zainstaluj rozszerzenie Chrome",
         "dontShowAgain": "Nie pokazuj ponownie"
     },
-	"connectingOverlay": {
+    "connectingOverlay": {
         "joiningRoom": "Łączenie ze spotkaniem…"
     },
     "connection": {
@@ -333,7 +333,7 @@
         "answer": "Odbierz",
         "audioCallTitle": "Przychodzące połączenie",
         "decline": "Odrzuć",
-        "productLabel": "z Jitsi Meet",
+        "productLabel": "z MobileX Meet",
         "videoCallTitle": "Przychodzące połączenie wideo"
     },
     "info": {
@@ -428,7 +428,7 @@
         "start": "Rozpocznij transmisję na żywo",
         "streamIdHelp": "Co to jest?",
         "unavailableTitle": "Transmisja na żywo jest niedostępna",
-		"youtubeTerms": "Warunki użytkowania YouTube",
+        "youtubeTerms": "Warunki użytkowania YouTube",
         "googlePrivacyPolicy": "Polityka prywatności Google"
     },
     "localRecording": {
@@ -494,7 +494,7 @@
         "newDeviceAudioTitle": "Wykryto nowe urządzenie dźwiękowe",
         "newDeviceAction": "Użyj",
         "OldElectronAPPTitle": "Luka bezpieczeństwa!",
-        "oldElectronClientDescription1": "Najprawdopodobniej używasz starej wersji klienta Jitsi Meet, który jest podatny na luki bezpieczeństwa. Proszę zaktualizować do ",
+        "oldElectronClientDescription1": "Najprawdopodobniej używasz starej wersji klienta MobileX Meet, który jest podatny na luki bezpieczeństwa. Proszę zaktualizować do ",
         "oldElectronClientDescription2": "najnowszej wersji",
         "oldElectronClientDescription3": " teraz!"
     },
@@ -616,7 +616,7 @@
         "selectAudioOutput": "Wyjście audio",
         "selectCamera": "Kamera",
         "selectMic": "Mikrofon",
-		"speakers": "Głośniki",
+        "speakers": "Głośniki",
         "startAudioMuted": "Wycisz wszystkich dołączających",
         "startVideoMuted": "Ukryj wszystkich dołączających",
         "title": "Ustawienia"
@@ -624,7 +624,7 @@
     "settingsView": {
         "advanced": "Zaawansowane",
         "alertOk": "OK",
-		"alertCancel": "Anuluj",
+        "alertCancel": "Anuluj",
         "alertTitle": "Uwaga",
         "alertURLText": "Wprowadzony adres URL serwera jest nieprawidłowy",
         "buildInfoSection": "Informacja o kompilacji",
@@ -868,7 +868,7 @@
         "sendFeedback": "Wyślij opinię",
         "terms": "Warunki korzystania",
         "title": "Bezpieczna, w pełni funkcjonalna i całkowicie bezpłatna wideokonferencja"
-	},
+    },
     "lonelyMeetingExperience": {
         "button": "Zaproś innych uczestników",
         "youAreAlone": "Tylko ty uczestniczysz w tym spotkaniu"
